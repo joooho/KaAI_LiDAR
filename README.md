@@ -7,7 +7,6 @@ Lidar를 처음 사용하게 된 것이라 아주 기초적이고 간단한 작�
 
 ![image](https://user-images.githubusercontent.com/73999809/117817223-58407f00-b2a2-11eb-928f-daf71f8af1d9.png)
 
-KaAI -> 3기 Lidar팀 -> Lidar(Velodyne VLP-16)
 
 https://www.notion.so/8d0e23b4d1e64306af49bc61f551bb3b?v=13ff24fc8eee4af5a6b98a7670c1953d
 
