@@ -6,3 +6,8 @@ KaAI 연구실에서는 Notion이라는 workspace를 사용하여 활동 내역�
 Lidar를 처음 사용하게 된 것이라 아주 기초적이고 간단한 작업들부터 정리를 하였습니다.
 
 https://www.notion.so/8d0e23b4d1e64306af49bc61f551bb3b?v=13ff24fc8eee4af5a6b98a7670c1953d
+
+<작업 List>
+1. VLP-16 작동 시키고 ROS를 사용한 Topic 받기.
+2. 3개 VLP-16 라이다의 Calibration. 
+3. Camera, Lidar, CAN data 각 데이터들의 시간 동기화(Time Synchronization)
